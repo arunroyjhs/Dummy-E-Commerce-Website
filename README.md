@@ -1,4 +1,4 @@
 Dummy-E-Commerce-Website
 ========================
 
-This is a basic structure of an e-commerce website which can be edited and applied to start your new e-commerce project   
+This is a basic structural dummy code of an e-commerce website which can be edited and incremented to start your new e-commerce project   
